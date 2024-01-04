@@ -29,7 +29,7 @@ from sklearn.metrics import make_scorer, r2_score
 from sklearn.preprocessing import StandardScaler
 import seaborn as sb
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-
+#the data was obtained using a docking software, both the label and the descriptors, but there is no python package for it
 df = pd.DataFrame(pd.read_csv("full_data_kinases_labled.csv"))
 df = df.rename(columns={'mean_dG': 'label'})
 #print(df)
