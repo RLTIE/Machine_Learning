@@ -55,6 +55,6 @@ Uncomment sections of code related to outlier removal if needed.
 Run the code.
 # Note
 This documentation provides an in-depth overview of the project's architecture, design decisions, algorithms used, and dependencies. For detailed explanations, comments within the code should be referenced.
-Author: Nour
+Author: Nour Abdollah
 Date: 12/1/2024
 
